@@ -1,7 +1,7 @@
 {
-  "name": "CARE",
-  "short_name": "CARE",
-  "start_url": "https://ubercare.github.io",
+  "name": "UBICARE",
+  "short_name": "UBICARE",
+  "start_url": "https://ubicare.github.io",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
